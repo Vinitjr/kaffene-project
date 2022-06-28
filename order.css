@@ -1,0 +1,41 @@
+#logout-btn{
+    position: relative;
+    bottom : 75px;
+    left: 960px;
+    text-decoration: none;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.566);
+    font-weight: 700;
+    letter-spacing: .6px;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+#logout-btn,a:hover{
+    color: #009688;
+    
+}
+
+#filter-content{
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+}
+
+#order-table th{
+    position: relative;
+    bottom: 250px;
+    margin: auto;
+  width: 280px;
+  padding: 10px;
+}
+
+.heade-0{
+    position: relative;
+    bottom: 40px;
+}
+
+.head-1{
+    position: relative;
+    bottom: 10px;
+}
